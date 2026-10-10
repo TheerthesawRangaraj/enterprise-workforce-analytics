@@ -179,6 +179,5 @@ If deploying with an external PostgreSQL instance (AWS RDS, Supabase, Neon, Rail
   - Mobile / iPhone / Android (<768px): Hamburger menu drawer with backdrop overlay, single-column KPI stacks, touch-scrollable tables.
 
 ---
-
 ## 📄 License
 MIT License. Developed for the S5 Mini Project 2.
